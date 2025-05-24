@@ -55,6 +55,44 @@ A simple Android application that allows users to register and login using local
 
 ---
 
+## Tampilan Aplikasi
+<table>
+  <tr>
+    <td><strong>Tampilan Login</strong></td>
+    <td><strong>Tampilan Register</strong></td>
+    <td><strong>Tampilan main activity</strong></td>
+  </tr>
+  <tr>
+    <td><img src="gambar/Screenshot 2025-05-24 153652.png" width="250"/></td>
+    <td><img src="gambar/Screenshot 2025-05-24 153636.png" width="250"/></td>
+    <td><img src="gambar/Screenshot 2025-05-24 153727.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><strong>Register email tidak valid</strong></td>
+    <td><strong>Register Password tidak sesuai ketentuan</strong></td>
+  </tr>
+  <tr>
+    <td><img src="gambar/Screenshot 2025-05-24 153834.png" width="250"/></td>
+    <td><img src="gambar/Screenshot 2025-05-24 153859.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><strong>Register Berhasil</strong></td>
+    <td><strong>Login Salah</strong></td>
+  </tr>
+  <tr>
+    <td><img src="gambar/Screenshot 2025-05-24 153924.png" width="300"/></td>
+      <td><img src="gambar/Screenshot 2025-05-24 154005.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><strong>Login Berhasil</strong></td>
+    <td><strong>Email sudah terdaftar</strong></td>
+  </tr>
+  <tr>
+    <td><img src="gambar/Screenshot 2025-05-24 154022.png" width="300"/></td>
+      <td><img src="gambar/Screenshot 2025-05-24 154146.png" width="300"/></td>
+  </tr>
+</table>
+
 ## 🛠️ Tools & Teknologi
 
 - Java  
@@ -73,6 +111,12 @@ A simple Android application that allows users to register and login using local
 4. Lakukan proses register, lalu login  
 
 ---
+
+## 📦 Cara Menjalankan
+---
+Nama : Friska Sasti
+NIM : 220220022
+Semester : 6
 
 ## 📄 License
 
